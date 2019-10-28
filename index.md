@@ -1,6 +1,6 @@
 ## My name is Gautham and this is my personal website
 
-I love journal. 
+I love to journal. 
 
 Once in a while, I publish
 
