@@ -14,7 +14,7 @@ It's the only way I grok.
 
 
 
-[Contact](http://simp.ly/publish/qm2GFn)
+[Contact](http://simp.ly/publish/zBhTNh)
 
 
 
