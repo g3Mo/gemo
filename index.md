@@ -1,8 +1,6 @@
 ## Gautham
 
-I can't help but write. 
-
-It's the only way I grok.
+I can't help but write. It's the only way I can grok the world.
 
 **Notes**
 
