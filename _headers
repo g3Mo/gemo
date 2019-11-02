@@ -7,11 +7,11 @@
   Referrer-Policy: same-origin
 /component---node-modules-gatsby-plugin-offline-app-shell-js-29e327e8790fcc937b11.js
   Cache-Control: public, max-age=31536000, immutable
-/styles.2a307e351b108d9d5ca1.css
+/styles.9fe740cb36c528e13918.css
   Cache-Control: public, max-age=31536000, immutable
 /styles-202e1dd43dc66df3b3e9.js
   Cache-Control: public, max-age=31536000, immutable
-/commons-4aaa778767cc87ac5892.js
+/commons-32403c7cea3e9f546553.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-not-found-template-js-03a49449e1a83219ee25.js
   Cache-Control: public, max-age=31536000, immutable
@@ -40,118 +40,118 @@
 /gemo/offline-plugin-app-shell-fallback/
   Link: </gemo/webpack-runtime-1bc2ebfa79c025f35804.js>; rel=preload; as=script
   Link: </gemo/styles-202e1dd43dc66df3b3e9.js>; rel=preload; as=script
-  Link: </gemo/commons-4aaa778767cc87ac5892.js>; rel=preload; as=script
+  Link: </gemo/commons-32403c7cea3e9f546553.js>; rel=preload; as=script
   Link: </gemo/app-049064e7dc800c288c94.js>; rel=preload; as=script
   Link: </gemo/component---node-modules-gatsby-plugin-offline-app-shell-js-29e327e8790fcc937b11.js>; rel=preload; as=script
 /gemo/404
   Link: </gemo/webpack-runtime-1bc2ebfa79c025f35804.js>; rel=preload; as=script
   Link: </gemo/styles-202e1dd43dc66df3b3e9.js>; rel=preload; as=script
-  Link: </gemo/commons-4aaa778767cc87ac5892.js>; rel=preload; as=script
+  Link: </gemo/commons-32403c7cea3e9f546553.js>; rel=preload; as=script
   Link: </gemo/app-049064e7dc800c288c94.js>; rel=preload; as=script
   Link: </gemo/styles-202e1dd43dc66df3b3e9.js>; rel=preload; as=script
-  Link: </gemo/commons-4aaa778767cc87ac5892.js>; rel=preload; as=script
+  Link: </gemo/commons-32403c7cea3e9f546553.js>; rel=preload; as=script
   Link: </gemo/component---src-templates-not-found-template-js-03a49449e1a83219ee25.js>; rel=preload; as=script
 /gemo/tags
   Link: </gemo/webpack-runtime-1bc2ebfa79c025f35804.js>; rel=preload; as=script
   Link: </gemo/styles-202e1dd43dc66df3b3e9.js>; rel=preload; as=script
-  Link: </gemo/commons-4aaa778767cc87ac5892.js>; rel=preload; as=script
+  Link: </gemo/commons-32403c7cea3e9f546553.js>; rel=preload; as=script
   Link: </gemo/app-049064e7dc800c288c94.js>; rel=preload; as=script
   Link: </gemo/styles-202e1dd43dc66df3b3e9.js>; rel=preload; as=script
-  Link: </gemo/commons-4aaa778767cc87ac5892.js>; rel=preload; as=script
+  Link: </gemo/commons-32403c7cea3e9f546553.js>; rel=preload; as=script
   Link: </gemo/component---src-templates-tags-list-template-js-baa35003cfaba412c873.js>; rel=preload; as=script
 /gemo/categories
   Link: </gemo/webpack-runtime-1bc2ebfa79c025f35804.js>; rel=preload; as=script
   Link: </gemo/styles-202e1dd43dc66df3b3e9.js>; rel=preload; as=script
-  Link: </gemo/commons-4aaa778767cc87ac5892.js>; rel=preload; as=script
+  Link: </gemo/commons-32403c7cea3e9f546553.js>; rel=preload; as=script
   Link: </gemo/app-049064e7dc800c288c94.js>; rel=preload; as=script
   Link: </gemo/styles-202e1dd43dc66df3b3e9.js>; rel=preload; as=script
-  Link: </gemo/commons-4aaa778767cc87ac5892.js>; rel=preload; as=script
+  Link: </gemo/commons-32403c7cea3e9f546553.js>; rel=preload; as=script
   Link: </gemo/component---src-templates-categories-list-template-js-c80da1deed6cdc790507.js>; rel=preload; as=script
 /gemo/404.html
   Link: </gemo/webpack-runtime-1bc2ebfa79c025f35804.js>; rel=preload; as=script
   Link: </gemo/styles-202e1dd43dc66df3b3e9.js>; rel=preload; as=script
-  Link: </gemo/commons-4aaa778767cc87ac5892.js>; rel=preload; as=script
+  Link: </gemo/commons-32403c7cea3e9f546553.js>; rel=preload; as=script
   Link: </gemo/app-049064e7dc800c288c94.js>; rel=preload; as=script
   Link: </gemo/styles-202e1dd43dc66df3b3e9.js>; rel=preload; as=script
-  Link: </gemo/commons-4aaa778767cc87ac5892.js>; rel=preload; as=script
+  Link: </gemo/commons-32403c7cea3e9f546553.js>; rel=preload; as=script
   Link: </gemo/component---src-templates-not-found-template-js-03a49449e1a83219ee25.js>; rel=preload; as=script
-/gemo/posts/love-for-the-word-grok/
-  Link: </gemo/webpack-runtime-1bc2ebfa79c025f35804.js>; rel=preload; as=script
-  Link: </gemo/styles-202e1dd43dc66df3b3e9.js>; rel=preload; as=script
-  Link: </gemo/commons-4aaa778767cc87ac5892.js>; rel=preload; as=script
-  Link: </gemo/app-049064e7dc800c288c94.js>; rel=preload; as=script
-  Link: </gemo/styles-202e1dd43dc66df3b3e9.js>; rel=preload; as=script
-  Link: </gemo/commons-4aaa778767cc87ac5892.js>; rel=preload; as=script
-  Link: </gemo/component---src-templates-post-template-js-60157e4eb8bf6120b802.js>; rel=preload; as=script
 /gemo/posts/scientific-explorer-vs-scientific-consumer
   Link: </gemo/webpack-runtime-1bc2ebfa79c025f35804.js>; rel=preload; as=script
   Link: </gemo/styles-202e1dd43dc66df3b3e9.js>; rel=preload; as=script
-  Link: </gemo/commons-4aaa778767cc87ac5892.js>; rel=preload; as=script
+  Link: </gemo/commons-32403c7cea3e9f546553.js>; rel=preload; as=script
   Link: </gemo/app-049064e7dc800c288c94.js>; rel=preload; as=script
   Link: </gemo/styles-202e1dd43dc66df3b3e9.js>; rel=preload; as=script
-  Link: </gemo/commons-4aaa778767cc87ac5892.js>; rel=preload; as=script
+  Link: </gemo/commons-32403c7cea3e9f546553.js>; rel=preload; as=script
   Link: </gemo/component---src-templates-post-template-js-60157e4eb8bf6120b802.js>; rel=preload; as=script
 /gemo/pages/about/
   Link: </gemo/webpack-runtime-1bc2ebfa79c025f35804.js>; rel=preload; as=script
   Link: </gemo/styles-202e1dd43dc66df3b3e9.js>; rel=preload; as=script
-  Link: </gemo/commons-4aaa778767cc87ac5892.js>; rel=preload; as=script
+  Link: </gemo/commons-32403c7cea3e9f546553.js>; rel=preload; as=script
   Link: </gemo/app-049064e7dc800c288c94.js>; rel=preload; as=script
   Link: </gemo/styles-202e1dd43dc66df3b3e9.js>; rel=preload; as=script
-  Link: </gemo/commons-4aaa778767cc87ac5892.js>; rel=preload; as=script
+  Link: </gemo/commons-32403c7cea3e9f546553.js>; rel=preload; as=script
   Link: </gemo/component---src-templates-page-template-js-814e63885548285c5ec8.js>; rel=preload; as=script
+/gemo/posts/love-for-the-word-grok/
+  Link: </gemo/webpack-runtime-1bc2ebfa79c025f35804.js>; rel=preload; as=script
+  Link: </gemo/styles-202e1dd43dc66df3b3e9.js>; rel=preload; as=script
+  Link: </gemo/commons-32403c7cea3e9f546553.js>; rel=preload; as=script
+  Link: </gemo/app-049064e7dc800c288c94.js>; rel=preload; as=script
+  Link: </gemo/styles-202e1dd43dc66df3b3e9.js>; rel=preload; as=script
+  Link: </gemo/commons-32403c7cea3e9f546553.js>; rel=preload; as=script
+  Link: </gemo/component---src-templates-post-template-js-60157e4eb8bf6120b802.js>; rel=preload; as=script
 /gemo/pages/contacts/
   Link: </gemo/webpack-runtime-1bc2ebfa79c025f35804.js>; rel=preload; as=script
   Link: </gemo/styles-202e1dd43dc66df3b3e9.js>; rel=preload; as=script
-  Link: </gemo/commons-4aaa778767cc87ac5892.js>; rel=preload; as=script
+  Link: </gemo/commons-32403c7cea3e9f546553.js>; rel=preload; as=script
   Link: </gemo/app-049064e7dc800c288c94.js>; rel=preload; as=script
   Link: </gemo/styles-202e1dd43dc66df3b3e9.js>; rel=preload; as=script
-  Link: </gemo/commons-4aaa778767cc87ac5892.js>; rel=preload; as=script
+  Link: </gemo/commons-32403c7cea3e9f546553.js>; rel=preload; as=script
   Link: </gemo/component---src-templates-page-template-js-814e63885548285c5ec8.js>; rel=preload; as=script
 /gemo/pages/new/
   Link: </gemo/webpack-runtime-1bc2ebfa79c025f35804.js>; rel=preload; as=script
   Link: </gemo/styles-202e1dd43dc66df3b3e9.js>; rel=preload; as=script
-  Link: </gemo/commons-4aaa778767cc87ac5892.js>; rel=preload; as=script
+  Link: </gemo/commons-32403c7cea3e9f546553.js>; rel=preload; as=script
   Link: </gemo/app-049064e7dc800c288c94.js>; rel=preload; as=script
   Link: </gemo/styles-202e1dd43dc66df3b3e9.js>; rel=preload; as=script
-  Link: </gemo/commons-4aaa778767cc87ac5892.js>; rel=preload; as=script
+  Link: </gemo/commons-32403c7cea3e9f546553.js>; rel=preload; as=script
   Link: </gemo/component---src-templates-page-template-js-814e63885548285c5ec8.js>; rel=preload; as=script
 /gemo/tag/grok
   Link: </gemo/webpack-runtime-1bc2ebfa79c025f35804.js>; rel=preload; as=script
   Link: </gemo/styles-202e1dd43dc66df3b3e9.js>; rel=preload; as=script
-  Link: </gemo/commons-4aaa778767cc87ac5892.js>; rel=preload; as=script
+  Link: </gemo/commons-32403c7cea3e9f546553.js>; rel=preload; as=script
   Link: </gemo/app-049064e7dc800c288c94.js>; rel=preload; as=script
   Link: </gemo/styles-202e1dd43dc66df3b3e9.js>; rel=preload; as=script
-  Link: </gemo/commons-4aaa778767cc87ac5892.js>; rel=preload; as=script
+  Link: </gemo/commons-32403c7cea3e9f546553.js>; rel=preload; as=script
   Link: </gemo/component---src-templates-tag-template-js-3bd87cb3691af10384b2.js>; rel=preload; as=script
 /gemo/tag/language
   Link: </gemo/webpack-runtime-1bc2ebfa79c025f35804.js>; rel=preload; as=script
   Link: </gemo/styles-202e1dd43dc66df3b3e9.js>; rel=preload; as=script
-  Link: </gemo/commons-4aaa778767cc87ac5892.js>; rel=preload; as=script
+  Link: </gemo/commons-32403c7cea3e9f546553.js>; rel=preload; as=script
   Link: </gemo/app-049064e7dc800c288c94.js>; rel=preload; as=script
   Link: </gemo/styles-202e1dd43dc66df3b3e9.js>; rel=preload; as=script
-  Link: </gemo/commons-4aaa778767cc87ac5892.js>; rel=preload; as=script
+  Link: </gemo/commons-32403c7cea3e9f546553.js>; rel=preload; as=script
   Link: </gemo/component---src-templates-tag-template-js-3bd87cb3691af10384b2.js>; rel=preload; as=script
 /gemo/category/language
   Link: </gemo/webpack-runtime-1bc2ebfa79c025f35804.js>; rel=preload; as=script
   Link: </gemo/styles-202e1dd43dc66df3b3e9.js>; rel=preload; as=script
-  Link: </gemo/commons-4aaa778767cc87ac5892.js>; rel=preload; as=script
+  Link: </gemo/commons-32403c7cea3e9f546553.js>; rel=preload; as=script
   Link: </gemo/app-049064e7dc800c288c94.js>; rel=preload; as=script
   Link: </gemo/styles-202e1dd43dc66df3b3e9.js>; rel=preload; as=script
-  Link: </gemo/commons-4aaa778767cc87ac5892.js>; rel=preload; as=script
+  Link: </gemo/commons-32403c7cea3e9f546553.js>; rel=preload; as=script
   Link: </gemo/component---src-templates-category-template-js-6cafed3f19330b898a97.js>; rel=preload; as=script
 /gemo/category/scientific-explorer
   Link: </gemo/webpack-runtime-1bc2ebfa79c025f35804.js>; rel=preload; as=script
   Link: </gemo/styles-202e1dd43dc66df3b3e9.js>; rel=preload; as=script
-  Link: </gemo/commons-4aaa778767cc87ac5892.js>; rel=preload; as=script
+  Link: </gemo/commons-32403c7cea3e9f546553.js>; rel=preload; as=script
   Link: </gemo/app-049064e7dc800c288c94.js>; rel=preload; as=script
   Link: </gemo/styles-202e1dd43dc66df3b3e9.js>; rel=preload; as=script
-  Link: </gemo/commons-4aaa778767cc87ac5892.js>; rel=preload; as=script
+  Link: </gemo/commons-32403c7cea3e9f546553.js>; rel=preload; as=script
   Link: </gemo/component---src-templates-category-template-js-6cafed3f19330b898a97.js>; rel=preload; as=script
 /gemo/
   Link: </gemo/webpack-runtime-1bc2ebfa79c025f35804.js>; rel=preload; as=script
   Link: </gemo/styles-202e1dd43dc66df3b3e9.js>; rel=preload; as=script
-  Link: </gemo/commons-4aaa778767cc87ac5892.js>; rel=preload; as=script
+  Link: </gemo/commons-32403c7cea3e9f546553.js>; rel=preload; as=script
   Link: </gemo/app-049064e7dc800c288c94.js>; rel=preload; as=script
   Link: </gemo/styles-202e1dd43dc66df3b3e9.js>; rel=preload; as=script
-  Link: </gemo/commons-4aaa778767cc87ac5892.js>; rel=preload; as=script
+  Link: </gemo/commons-32403c7cea3e9f546553.js>; rel=preload; as=script
   Link: </gemo/component---src-templates-index-template-js-690b599fe96973995f6a.js>; rel=preload; as=script
