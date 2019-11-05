@@ -4,7 +4,7 @@ date: "2019-10-29"
 template: "post"
 draft: false
 slug: "/posts/love-for-the-word-grok/"
-category: "Language"
+category: ""
 tags:
   - "Language"
   - "Grok"

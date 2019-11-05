@@ -4,9 +4,11 @@ date: "2019-10-29"
 template: "post"
 draft: false
 slug: "/posts/scientific-explorer-vs-scientific-consumer"
-category: "Scientific Explorer"
-description: "I don’t think there’s any point entirely basing our personal opinions on knowledge that has been completely proven, tested, verified and peer-reviewed. You're just a consumer of scientific knowledge then, not a scientific explorer."
-socialImage: "/media/image-3.jpg"
+category: ""
+tags:
+  - "Science"
+description: ""
+socialImage: "/media/Prayer-Flags.jpg"
 ---
 
 I don’t think there’s any point entirely basing our personal opinions on knowledge that has been completely proven, tested, verified and peer-reviewed. You're just a consumer of scientific knowledge then, not a scientific explorer.
