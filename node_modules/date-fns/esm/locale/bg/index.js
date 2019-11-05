@@ -13,6 +13,7 @@
  * @author Nikolay Stoynov [@arvigeus]{@link https://github.com/arvigeus}
  */
 // var locale = {
+//   code: 'bg',
 //   formatDistance: formatDistance,
 //   formatLong: formatLong,
 //   formatRelative: formatRelative,

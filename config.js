@@ -32,7 +32,7 @@ module.exports = {
       email: 'gauthamail@gmail.com',
       facebook: '',
       telegram: '',
-      twitter: 'twitter.com/g3mo',
+      twitter: 'g3mo',
       github: '',
       rss: '',
       vkontakte: '',

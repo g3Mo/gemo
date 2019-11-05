@@ -13,6 +13,7 @@
  * @author Ruban Selvarajah [@Zyten]{@link https://github.com/Zyten}
  */
 // var locale = {
+//   code: 'ms',
 //   formatDistance: formatDistance,
 //   formatLong: formatLong,
 //   formatRelative: formatRelative,
