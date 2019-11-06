@@ -4,7 +4,7 @@ date: "2019-10-29"
 template: "post"
 draft: false
 slug: "/posts/scientific-explorer-vs-scientific-consumer"
-category: ""
+category: "test"
 tags:
   - "Science"
 description: ""

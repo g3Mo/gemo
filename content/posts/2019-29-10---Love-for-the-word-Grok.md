@@ -4,10 +4,9 @@ date: "2019-10-29"
 template: "post"
 draft: false
 slug: "/posts/love-for-the-word-grok/"
-category: ""
+category: "test"
 tags:
   - "Language"
-  - "Grok"
 description: ""
 socialImage: "/media/Prayer-Flags.jpg"
 ---
