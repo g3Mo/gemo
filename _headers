@@ -7,7 +7,7 @@
   Referrer-Policy: same-origin
 /component---node-modules-gatsby-plugin-offline-app-shell-js-a7388efdc62430243a75.js
   Cache-Control: public, max-age=31536000, immutable
-/styles.9fe740cb36c528e13918.css
+/styles.6d1016d282fed8788e2e.css
   Cache-Control: public, max-age=31536000, immutable
 /styles-c54d467e3152b7dbde15.js
   Cache-Control: public, max-age=31536000, immutable
@@ -83,14 +83,6 @@
   Link: </gemo/styles-c54d467e3152b7dbde15.js>; rel=preload; as=script
   Link: </gemo/commons-25c5ca8ff94f521ca9e3.js>; rel=preload; as=script
   Link: </gemo/component---src-templates-post-template-js-df2f932baddc483a1062.js>; rel=preload; as=script
-/gemo/pages/about/
-  Link: </gemo/webpack-runtime-1afa8397c03c0eb9095e.js>; rel=preload; as=script
-  Link: </gemo/styles-c54d467e3152b7dbde15.js>; rel=preload; as=script
-  Link: </gemo/commons-25c5ca8ff94f521ca9e3.js>; rel=preload; as=script
-  Link: </gemo/app-abf0b333593eaaf0b32b.js>; rel=preload; as=script
-  Link: </gemo/styles-c54d467e3152b7dbde15.js>; rel=preload; as=script
-  Link: </gemo/commons-25c5ca8ff94f521ca9e3.js>; rel=preload; as=script
-  Link: </gemo/component---src-templates-page-template-js-fe888cf97aae0e68f5a0.js>; rel=preload; as=script
 /gemo/posts/scientific-explorer-vs-scientific-consumer
   Link: </gemo/webpack-runtime-1afa8397c03c0eb9095e.js>; rel=preload; as=script
   Link: </gemo/styles-c54d467e3152b7dbde15.js>; rel=preload; as=script
@@ -108,6 +100,14 @@
   Link: </gemo/commons-25c5ca8ff94f521ca9e3.js>; rel=preload; as=script
   Link: </gemo/component---src-templates-page-template-js-fe888cf97aae0e68f5a0.js>; rel=preload; as=script
 /gemo/pages/new/
+  Link: </gemo/webpack-runtime-1afa8397c03c0eb9095e.js>; rel=preload; as=script
+  Link: </gemo/styles-c54d467e3152b7dbde15.js>; rel=preload; as=script
+  Link: </gemo/commons-25c5ca8ff94f521ca9e3.js>; rel=preload; as=script
+  Link: </gemo/app-abf0b333593eaaf0b32b.js>; rel=preload; as=script
+  Link: </gemo/styles-c54d467e3152b7dbde15.js>; rel=preload; as=script
+  Link: </gemo/commons-25c5ca8ff94f521ca9e3.js>; rel=preload; as=script
+  Link: </gemo/component---src-templates-page-template-js-fe888cf97aae0e68f5a0.js>; rel=preload; as=script
+/gemo/pages/about/
   Link: </gemo/webpack-runtime-1afa8397c03c0eb9095e.js>; rel=preload; as=script
   Link: </gemo/styles-c54d467e3152b7dbde15.js>; rel=preload; as=script
   Link: </gemo/commons-25c5ca8ff94f521ca9e3.js>; rel=preload; as=script
