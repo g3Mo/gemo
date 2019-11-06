@@ -29,6 +29,7 @@
     }
 
     &-description {
+      display: none;
       font-size: $typographic-base-font-size;
       @include line-height(1);
       @include margin-bottom(.75);
@@ -65,6 +66,7 @@
     }
 
     &-readmore {
+      display: none;
       font-size: $typographic-base-font-size;
       color: $color-primary;
 
