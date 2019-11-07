@@ -39,14 +39,14 @@ self.__precacheManifest = [
     "url": "commons-25c5ca8ff94f521ca9e3.js"
   },
   {
-    "url": "app-abf0b333593eaaf0b32b.js"
+    "url": "app-030ca54646a897f46979.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-a7388efdc62430243a75.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "3555fb7d0ca759e91c04fd8f4bf1e9a4"
+    "revision": "4e7b0284c58c49f222d6cc107f10fba5"
   },
   {
     "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
@@ -86,7 +86,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/gemo/app-abf0b333593eaaf0b32b.js`))) {
+  if (!resources || !(await caches.match(`/gemo/app-030ca54646a897f46979.js`))) {
     return await fetch(event.request)
   }
 
