@@ -1,8 +1,8 @@
 'use strict';
 
 module.exports = {
-  url: 'https://g3mo.github.io',
-  pathPrefix: '/gemo',
+  url: 'http://gemo.live/',
+  pathPrefix: '',
   title: 'Gautham',
   subtitle: 'I can’t help but write. It’s the only way I grok.',
   copyright: '© All rights reserved.',
