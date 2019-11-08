@@ -17,10 +17,10 @@ You’re not making brave new assumptions about the world you live in, using fac
 
 It’s totally worth risking your reputation to come up with a new premise that can be up for mockery, ridicule, criticism, questioning, peer review, experimentation and testing. That’s the only way new science and new knowledge can emerge.
 
-Just make you sure don't forget the experimentation and testing part. Self-deception is scarily high among Scientific explorers.
+Just make you sure don't forget the experimentation and testing part. Self-deception tends to be scarily high among Scientific explorers.
 
 With the knowledge and the collaboration that internet provides nowadays, the number of people who can afford to and actually be full-time scientific explorers and use the scientific method in their domain is higher that ever.
 
 If you already have a bent of scientific explorer state of mind, it’s not worth your time being just a consumer.
 
-Last Update: 29 October 2019
+Last Updated: 29 October 2019
