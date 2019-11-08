@@ -27,7 +27,7 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-1afa8397c03c0eb9095e.js"
+    "url": "webpack-runtime-25fb9989b30fb9476dd5.js"
   },
   {
     "url": "styles.6d1016d282fed8788e2e.css"
@@ -36,21 +36,17 @@ self.__precacheManifest = [
     "url": "styles-c54d467e3152b7dbde15.js"
   },
   {
-    "url": "commons-25c5ca8ff94f521ca9e3.js"
+    "url": "commons-946281833bc279afac14.js"
   },
   {
-    "url": "app-030ca54646a897f46979.js"
+    "url": "app-8879c8d30aa6862dba34.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-a7388efdc62430243a75.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "4e7b0284c58c49f222d6cc107f10fba5"
-  },
-  {
-    "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
-    "revision": "d274adf0f008ef152ce70a312b04b730"
+    "revision": "c2897d0798619072a7c9fa2bc498d3f4"
   },
   {
     "url": "manifest.json",
@@ -81,12 +77,12 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   }
 
   let { pathname } = new URL(event.request.url)
-  pathname = pathname.replace(new RegExp(`^/gemo`), ``)
+  pathname = pathname.replace(new RegExp(`^`), ``)
 
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/gemo/app-030ca54646a897f46979.js`))) {
+  if (!resources || !(await caches.match(`/app-8879c8d30aa6862dba34.js`))) {
     return await fetch(event.request)
   }
 
@@ -99,7 +95,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
     }
   }
 
-  const offlineShell = `/gemo/offline-plugin-app-shell-fallback/index.html`
+  const offlineShell = `/offline-plugin-app-shell-fallback/index.html`
   const offlineShellWithKey = workbox.precaching.getCacheKeyForURL(offlineShell)
   return await caches.match(offlineShellWithKey)
 })
