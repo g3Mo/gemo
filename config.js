@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://gemo.live',
-  pathPrefix: 'blog',
+  pathPrefix: '',
   title: 'Gautham',
   subtitle: 'I can’t help but write. It’s the only way I grok.',
   copyright: '© All rights reserved.',
