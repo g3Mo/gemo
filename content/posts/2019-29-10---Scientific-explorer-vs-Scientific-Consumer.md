@@ -19,6 +19,6 @@ It’s totally worth risking your reputation to come up with a new premise that 
 
 Make you sure don't forget the experimentation and testing part. Self-deception tends to be scarily high among Scientific explorers.
 
-With the knowledge and the collaboration that internet provides nowadays, the number of people who can afford to and actually be full-time scientific explorers and use the scientific method in their domain is higher that ever.
+With the knowledge and the collaboration that internet provides nowadays, the number of people who can afford to and actually be full-time scientific explorers and use the scientific method in their domain is higher than ever.
 
-If you already have a bent of scientific explorer state of mind, it’s not worth your time being just a consumer.
+If you already have a scientific explorer state of mind, it’s not worth your time being just a consumer.
