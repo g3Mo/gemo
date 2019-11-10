@@ -24,6 +24,3 @@ Kinda eerie that both Martian and Malayalam were using similar syllables :-)
 grok \ ˈgräk  \ : to understand profoundly and intuitively
 
 Grok may be the only English word that derives from Martian. Yes, we do mean the language of the planet Mars. No, we're not getting spacey; we've just ventured into the realm of science fiction. "Grok" was introduced in Robert A. Heinlein's 1961 science fiction novel Stranger in a Strange Land. The book's main character, Valentine Michael Smith, is a Martian-raised human who comes to earth as an adult, bringing with him words from his native tongue and a unique perspective on the strange, strange ways of earthlings. "Grok" was quickly adopted by the youth culture of America and has since peppered the vernacular of those who grok it, from the hippies of the '60s to the computerniks of the '90s.
-
-
-Last updated: 29 October 2019

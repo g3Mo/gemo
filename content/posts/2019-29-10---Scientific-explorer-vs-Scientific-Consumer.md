@@ -22,5 +22,3 @@ Make you sure don't forget the experimentation and testing part. Self-deception 
 With the knowledge and the collaboration that internet provides nowadays, the number of people who can afford to and actually be full-time scientific explorers and use the scientific method in their domain is higher that ever.
 
 If you already have a bent of scientific explorer state of mind, it’s not worth your time being just a consumer.
-
-Last Updated: 29 October 2019
