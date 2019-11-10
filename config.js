@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://gemo.live',
+  url: 'http://gemo.live',
   pathPrefix: '',
   title: 'Gautham',
   subtitle: 'I can’t help but write. It’s the only way I grok.',
